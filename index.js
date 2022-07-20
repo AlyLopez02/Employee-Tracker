@@ -43,6 +43,7 @@ function mainQuestions() {
                 break;
             default:
                 console.log('You have decided to quit');
+                quit();
                 break;
         }
     })
@@ -76,4 +77,8 @@ function addAnEmployee(){
 
 function updateAnEmployeeRole(){
 
+}
+
+function quit(){
+    process.exit();
 }
