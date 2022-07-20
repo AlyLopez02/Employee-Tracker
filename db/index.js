@@ -1,4 +1,4 @@
-const connection = require(',/connection');
+const connection = require('./connection');
 
 class DB {
     constructor(connection) {
@@ -23,7 +23,7 @@ class DB {
         )
     }
 
-    creatEmployee(newEmployee) {
+    createEmployee(newEmployee) {
         return this.connection.promise().query(
             'INSERT INTO employee SET ?', newEmployee
         )
