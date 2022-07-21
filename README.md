@@ -17,6 +17,6 @@ Type `npm start` into the same terminal you used for the installation (not the m
 ## Walkthrough Video
 Here is the link to the walkthrough video of application:
 
-<a href="https://watch.screencastify.com/v/nks5xN0lfl7IrqzkwQSg">https://watch.screencastify.com/v/nks5xN0lfl7IrqzkwQSg</a>
+<a href="https://watch.screencastify.com/v/gVlfPkj69BRXmGI79GwY">https://watch.screencastify.com/v/gVlfPkj69BRXmGI79GwY</a>
 
 Any information used in the video was placeholder information.
